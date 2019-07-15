@@ -1,7 +1,7 @@
-var=int(input())
-if(var>=1):
+_var=int(input())
+if(_var>=1):
     print("Positive")
-elif(var<=-1):
+elif(_var<=-1):
     print("Negative")
 else:
     print("Zero")
