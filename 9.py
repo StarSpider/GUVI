@@ -5,4 +5,4 @@ if((ch>='a' and ch<= 'z') or (ch>='A' and ch<='Z')):
   else:
     print("Consonant")
 else:
-  print("Invalid")
+  print("invalid")
